@@ -39,7 +39,7 @@ namespace midimacro
 
         uint8_t keyOption_ = 4;
         uint8_t keyEdit_ = 5;
-        uint8_t keyShift_ = 16;
-        uint8_t keyPlay_ = 17;
+        uint8_t keyShift_ = 17;
+        uint8_t keyPlay_ = 18;
     };
 }
